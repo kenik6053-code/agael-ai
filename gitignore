@@ -1,0 +1,18 @@
+# Backend
+backend/.env
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/agael.db
+backend/uploads/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Python
+**/__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
