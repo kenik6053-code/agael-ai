@@ -5,7 +5,7 @@ function ChatPage() {
   const [messages, setMessages] = useState([
     {
       sender: "ai",
-      text: "👋 Hello! I'm Agael AI. Ask me anything."
+      text: "👋 Hello! I'm Agael AI. Got anything confusing or need an explanation somewhere. Just tell me. "
     }
   ]);
 

@@ -7,7 +7,7 @@ export default function TypingIndicator() {
         <div className="flex items-center gap-3 mb-2">
 
           <div className="bg-violet-600 p-2 rounded-full">
-            🤖
+          
           </div>
 
           <span className="font-semibold text-white">
